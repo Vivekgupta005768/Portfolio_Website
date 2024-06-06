@@ -1,0 +1,8 @@
+portfolio-website/
+├── index.html
+├── styles.css
+├── README.md
+├── assets/
+│   ├── C:\Users\Vivek Gupta\Downloads\luke-miller-4HSBbH7x51Q-unsplash.jpg/
+│   ├── scripts/
+│   └── ...
